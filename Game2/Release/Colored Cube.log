@@ -1,0 +1,129 @@
+﻿Build started 2/27/2014 10:06:59 AM.
+     1>Project "C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Colored Cube.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Colored Cube.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt audio.cpp Box.cpp "Colored Cube App.cpp" d3dApp.cpp floor.cpp GameObject.cpp GameTimer.cpp input.cpp Line.cpp LineObject.cpp Obstacle.cpp Player.cpp Quad.cpp Score.cpp Text.cpp TileObject.cpp
+         audio.cpp
+         Box.cpp
+         Colored Cube App.cpp
+     1>Colored Cube App.cpp(182): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Colored Cube App.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(540): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(546): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(553): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(566): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>Colored Cube App.cpp(711): warning C4018: '<' : signed/unsigned mismatch
+     1>Colored Cube App.cpp(757): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         d3dApp.cpp
+     1>d3dApp.cpp(128): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : see declaration of 'wcscpy'
+         floor.cpp
+     1>floor.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>floor.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>floor.cpp(145): warning C4101: 'b' : unreferenced local variable
+     1>floor.cpp(145): warning C4101: 'g' : unreferenced local variable
+     1>floor.cpp(145): warning C4101: 'r' : unreferenced local variable
+         GameObject.cpp
+     1>GameObject.cpp(35): warning C4305: '*=' : truncation from 'double' to 'float'
+         GameTimer.cpp
+         input.cpp
+         Line.cpp
+         LineObject.cpp
+         Obstacle.cpp
+         Player.cpp
+     1>Player.cpp(56): warning C4305: '*=' : truncation from 'double' to 'float'
+         Quad.cpp
+         Score.cpp
+     1>Score.cpp(25): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+         Text.cpp
+     1>Text.cpp(58): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : see declaration of 'wcscpy'
+     1>Text.cpp(65): warning C4244: 'initializing' : conversion from 'FLOAT' to 'LONG', possible loss of data
+     1>Text.cpp(65): warning C4244: 'initializing' : conversion from 'FLOAT' to 'LONG', possible loss of data
+         TileObject.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Release\Colored Cube.exe" /INCREMENTAL:NO /NOLOGO d3d10.lib d3dx10.lib dxerr.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Colored Cube.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Release\Colored Cube.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Release\Colored Cube.lib" /MACHINE:X86 Release\audio.obj
+         Release\Box.obj
+         "Release\Colored Cube App.obj"
+         Release\d3dApp.obj
+         Release\floor.obj
+         Release\GameObject.obj
+         Release\GameTimer.obj
+         Release\input.obj
+         Release\Line.obj
+         Release\LineObject.obj
+         Release\Obstacle.obj
+         Release\Player.obj
+         Release\Quad.obj
+         Release\Score.obj
+         Release\Text.obj
+         Release\TileObject.obj
+     1>input.obj : error LNK2001: unresolved external symbol _XInputGetState@8
+     1>input.obj : error LNK2001: unresolved external symbol _XInputSetState@8
+     1>C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Release\Colored Cube.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\Users\eckerdj1\Documents\GitHub\Comp446_Game1\Game1\Colored Cube.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:15.70
